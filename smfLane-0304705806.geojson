@@ -1,0 +1,231 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "poiId": 30,
+        "poiName": "NEMC NORTH EAST MIX CNTR-PGDIS [B278]",
+        "stopNumber": 0,
+        "type": "shippingPointMarker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5210123,
+          40.027551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poiId": 30,
+        "poiName": "NEMC NORTH EAST MIX CNTR-PGDIS [B278]",
+        "stopNumber": 0,
+        "type": "shippingPointFence"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.52408027648926,
+              40.03839224384298
+            ],
+            [
+              -77.5136947631836,
+              40.03845795695008
+            ],
+            [
+              -77.5055408477783,
+              40.02768016097898
+            ],
+            [
+              -77.53403663635254,
+              40.01289077952615
+            ],
+            [
+              -77.53558158874512,
+              40.01650625767587
+            ],
+            [
+              -77.52408027648926,
+              40.03839224384298
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poiId": 137,
+        "poiName": "JETRO CASH AND CARRY ENT 110 [2000011548]",
+        "stopNumber": 1,
+        "type": "shippingPointMarker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99713099002838,
+          40.6671630123522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poiId": 137,
+        "poiName": "JETRO CASH AND CARRY ENT 110 [2000011548]",
+        "stopNumber": 1,
+        "type": "shippingPointFence"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.99589717388152,
+              40.66737866654742
+            ],
+            [
+              -73.99759232997894,
+              40.66830637852889
+            ],
+            [
+              -73.99918556213379,
+              40.66666659815825
+            ],
+            [
+              -73.99657309055328,
+              40.665051191967606
+            ],
+            [
+              -73.99591863155365,
+              40.666267836539355
+            ],
+            [
+              -73.99589717388152,
+              40.66737866654742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poiId": 135,
+        "poiName": "JETRO CASH AND CARRY 112 [2000011367]",
+        "stopNumber": 2,
+        "type": "shippingPointMarker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90187501907349,
+          40.649399664631254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poiId": 135,
+        "poiName": "JETRO CASH AND CARRY 112 [2000011367]",
+        "stopNumber": 2,
+        "type": "shippingPointFence"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9042192697525,
+              40.64931419379402
+            ],
+            [
+              -73.90234708786011,
+              40.64762917493634
+            ],
+            [
+              -73.90013694763184,
+              40.64908220096974
+            ],
+            [
+              -73.90193939208984,
+              40.650828232418505
+            ],
+            [
+              -73.9042192697525,
+              40.64931419379402
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poiId": 550,
+        "poiName": "JETRO - COLLEGE POINT 121 [2000059962]",
+        "stopNumber": 3,
+        "type": "shippingPointMarker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83735179901123,
+          40.784278392604236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "poiId": 550,
+        "poiName": "JETRO - COLLEGE POINT 121 [2000059962]",
+        "stopNumber": 3,
+        "type": "shippingPointFence"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.83765757083893,
+              40.78470081841747
+            ],
+            [
+              -73.83781850337982,
+              40.78162598451406
+            ],
+            [
+              -73.83663833141327,
+              40.78161379862756
+            ],
+            [
+              -73.83629500865936,
+              40.784144353082745
+            ],
+            [
+              -73.8362842798233,
+              40.78467238599513
+            ],
+            [
+              -73.83765757083893,
+              40.78470081841747
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
